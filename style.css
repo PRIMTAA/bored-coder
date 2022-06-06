@@ -1,0 +1,73 @@
+body {
+  font-family: 'Concert One', cursive;
+}
+
+h1, h2 {
+  color: #F39189;
+  font-family: 'Skranji', cursive;
+}
+
+/* intro */
+.intro {
+  margin: 100px;
+  text-align: center;
+  line-height: 2;
+  background-color: #EEDAD1;
+}
+
+.p1 {
+  font-size: 24px;
+}
+
+/* navigation header */
+.navbar {
+  background-color: #F6E7D8;
+}
+
+.navbar-brand {
+  font-family: 'Skranji', cursive;
+  font-size: 40px;
+  color: #FF6363;
+}
+
+.nav-link {
+  color: #FF6363;
+  font-size: 20px;
+  font-family: 'Skranji', cursive;
+}
+
+/* cards */
+.card {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.card-img-top {
+  height: 275px;
+}
+
+.card-title {
+  font-family: 'Skranji', cursive;
+  color: #FF6363;
+}
+
+/* buttons */
+.btn {
+  font-family: 'Sawarabi Mincho', serif;
+  background-color: #F1935C;
+}
+
+.btn:hover {
+  background-color: #ECB390;
+}
+
+/* canvas */
+.offcanvas {
+  background-color: #30475E;
+}
+
+.end {
+  margin: 100px;
+  line-height: 2;
+  text-align: center;
+}
